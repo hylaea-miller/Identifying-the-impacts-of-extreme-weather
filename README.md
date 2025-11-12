@@ -1,32 +1,28 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Identifying the Impacts of Extreme Weather
 
-[Link to homework
-webpage](https://eds-223-geospatial.github.io/assignments/HW3.html)
+[Link to homework webpage](https://eds-223-geospatial.github.io/assignments/HW3.html)
 
 Date: 11/11/2025
 
 ## Description
 
-This repository contains all the materials for Homework Assignment 3 of
-the course EDS 223: Geospatial Analysis & Remote Sensing.
+This repository contains all the materials for Homework Assignment 3 of the course EDS 223: Geospatial Analysis & Remote Sensing.
 
 For this assignment, I practiced:
-- loading vector/raster data
-- simple raster operations
-- simple vector operations
-- spatial joins
+
+-   Loading vector/raster data
+
+-   Simple raster operations
+
+-   Simple vector operations
+
+-   Spatial joins
 
 ## Repository Content
 
 The Project directory contains:
 
-``` 
+```         
 Identifying the impacts of extreme weather
 └───README.md
 └───Rmd/Proj files    
@@ -38,17 +34,19 @@ Identifying the impacts of extreme weather
             └───census tract gdb files
         └───VNP46A1
             └───VIIRS data files
-
 ```
 
 ## Data Access
 
-You can find the datasets used in this project it here: 
-- [Night lights](https://ladsweb.modaps.eosdis.nasa.gov/)
-- [Roads](https://download.geofabrik.de/)  
-- [Houses](https://download.geofabrik.de/)
-- [Socioeconomic](https://www.census.gov/programs-surveys/acs)
- 
+You can find the datasets used in this project it here:
+
+-   [Night lights](https://ladsweb.modaps.eosdis.nasa.gov/)
+
+-   [Roads](https://download.geofabrik.de/)
+
+-   [Houses](https://download.geofabrik.de/)
+
+-   [Socioeconomic](https://www.census.gov/programs-surveys/acs)
 
 ## How to Run
 
@@ -56,8 +54,7 @@ Fork and clone this repository to your local environment.
 
 Open the `.qmd` (Quarto) document.
 
-Ensure that the required R packages are installed. They can be found in
-the RMD folder.
+Ensure that the required R packages are installed.
 
 Render the document to generate the analysis and maps in PDF format.
 
@@ -65,11 +62,10 @@ Render the document to generate the analysis and maps in PDF format.
 
 Hylaea Miller
 
-
 ## Acknowledgements
 
-LAADS DAAC. Nasa.gov.: https://ladsweb.modaps.eosdis.nasa.gov/
+LAADS DAAC. Nasa.gov.: <https://ladsweb.modaps.eosdis.nasa.gov/>
 
-OpenStreetMap Data Extracts | Geofabrik Download Server. (2025): https://download.geofabrik.de/
+OpenStreetMap Data Extracts \| Geofabrik Download Server. (2025): <https://download.geofabrik.de/>
 
-Bureau, U. C. American Community Survey (ACS). Census.gov.: https://www.census.gov/programs-surveys/acs
+Bureau, U. C. American Community Survey (ACS). Census.gov.: <https://www.census.gov/programs-surveys/acs>
