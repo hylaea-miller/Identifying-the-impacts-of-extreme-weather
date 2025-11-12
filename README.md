@@ -38,7 +38,7 @@ Identifying the impacts of extreme weather
 
 ## Data Access
 
-You can find the datasets used in this project it here:
+You can find the datasets used in this project in here:
 
 -   [Night lights](https://ladsweb.modaps.eosdis.nasa.gov/)
 
